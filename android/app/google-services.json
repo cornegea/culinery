@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871803560680",
+    "project_id": "masakan-7a664",
+    "storage_bucket": "masakan-7a664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871803560680:android:24021096c1f7236467df5d",
+        "android_client_info": {
+          "package_name": "com.example.culiner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAosKAnp805sFl1p434yqpSOMDrrCguW08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
